@@ -1,0 +1,717 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|c:\\users\\pauff\\desktop\\challengesg\\sgchallengeapplication\\sgchallengeapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|solutionrelative:sgchallengeapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|c:\\users\\pauff\\desktop\\challengesg\\sgchallengeapplication\\sgchallengeapplication\\services\\crearcuentaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|solutionrelative:sgchallengeapplication\\services\\crearcuentaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|c:\\users\\pauff\\desktop\\challengesg\\sgchallengeapplication\\sgchallengeapplication\\services\\crearusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|solutionrelative:sgchallengeapplication\\services\\crearusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|c:\\users\\pauff\\desktop\\challengesg\\sgchallengeapplication\\sgchallengeapplication\\repositories\\cuentarepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|solutionrelative:sgchallengeapplication\\repositories\\cuentarepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|c:\\users\\pauff\\desktop\\challengesg\\sgchallengeapplication\\sgchallengeapplication\\data\\models\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|solutionrelative:sgchallengeapplication\\data\\models\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|c:\\users\\pauff\\desktop\\challengesg\\sgchallengeapplication\\sgchallengeapplication\\controllers\\crearclientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|solutionrelative:sgchallengeapplication\\controllers\\crearclientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|c:\\users\\pauff\\desktop\\challengesg\\sgchallengeapplication\\sgchallengeapplication\\repositories\\interfaces\\iutilidadesrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|solutionrelative:sgchallengeapplication\\repositories\\interfaces\\iutilidadesrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|c:\\users\\pauff\\desktop\\challengesg\\sgchallengeapplication\\sgchallengeapplication\\repositories\\utilidadesrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|solutionrelative:sgchallengeapplication\\repositories\\utilidadesrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|c:\\users\\pauff\\desktop\\challengesg\\sgchallengeapplication\\sgchallengeapplication\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|solutionrelative:sgchallengeapplication\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|c:\\users\\pauff\\desktop\\challengesg\\sgchallengeapplication\\sgchallengeapplication\\services\\autenticarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|solutionrelative:sgchallengeapplication\\services\\autenticarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|c:\\users\\pauff\\desktop\\challengesg\\sgchallengeapplication\\sgchallengeapplication\\services\\interfaces\\isaldoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|solutionrelative:sgchallengeapplication\\services\\interfaces\\isaldoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|c:\\users\\pauff\\desktop\\challengesg\\sgchallengeapplication\\sgchallengeapplication\\services\\interfaces\\iretiroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|solutionrelative:sgchallengeapplication\\services\\interfaces\\iretiroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|c:\\users\\pauff\\desktop\\challengesg\\sgchallengeapplication\\sgchallengeapplication\\services\\interfaces\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|solutionrelative:sgchallengeapplication\\services\\interfaces\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|c:\\users\\pauff\\desktop\\challengesg\\sgchallengeapplication\\sgchallengeapplication\\services\\interfaces\\idepositoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|solutionrelative:sgchallengeapplication\\services\\interfaces\\idepositoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|c:\\users\\pauff\\desktop\\challengesg\\sgchallengeapplication\\sgchallengeapplication\\services\\interfaces\\icrearusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|solutionrelative:sgchallengeapplication\\services\\interfaces\\icrearusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|c:\\users\\pauff\\desktop\\challengesg\\sgchallengeapplication\\sgchallengeapplication\\services\\interfaces\\icrearcuentaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|solutionrelative:sgchallengeapplication\\services\\interfaces\\icrearcuentaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|c:\\users\\pauff\\desktop\\challengesg\\sgchallengeapplication\\sgchallengeapplication\\services\\interfaces\\icrearclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|solutionrelative:sgchallengeapplication\\services\\interfaces\\icrearclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|c:\\users\\pauff\\desktop\\challengesg\\sgchallengeapplication\\sgchallengeapplication\\services\\interfaces\\iautenticarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|solutionrelative:sgchallengeapplication\\services\\interfaces\\iautenticarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|c:\\users\\pauff\\desktop\\challengesg\\sgchallengeapplication\\sgchallengeapplication\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|solutionrelative:sgchallengeapplication\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|c:\\users\\pauff\\desktop\\challengesg\\sgchallengeapplication\\sgchallengeapplication\\data\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|solutionrelative:sgchallengeapplication\\data\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|c:\\users\\pauff\\desktop\\challengesg\\sgchallengeapplication\\sgchallengeapplication\\data\\dtos\\usuariocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|solutionrelative:sgchallengeapplication\\data\\dtos\\usuariocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|c:\\users\\pauff\\desktop\\challengesg\\sgchallengeapplication\\sgchallengeapplication\\data\\dtos\\cuentacreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|solutionrelative:sgchallengeapplication\\data\\dtos\\cuentacreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|c:\\users\\pauff\\desktop\\challengesg\\sgchallengeapplication\\sgchallengeapplication\\data\\dtos\\clientecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|solutionrelative:sgchallengeapplication\\data\\dtos\\clientecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|c:\\users\\pauff\\desktop\\challengesg\\sgchallengeapplication\\sgchallengeapplication\\repositories\\localidadrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|solutionrelative:sgchallengeapplication\\repositories\\localidadrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|c:\\users\\pauff\\desktop\\challengesg\\sgchallengeapplication\\sgchallengeapplication\\repositories\\provinciarepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|solutionrelative:sgchallengeapplication\\repositories\\provinciarepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|c:\\users\\pauff\\desktop\\challengesg\\sgchallengeapplication\\sgchallengeapplication\\controllers\\crearusuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|solutionrelative:sgchallengeapplication\\controllers\\crearusuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|c:\\users\\pauff\\desktop\\challengesg\\sgchallengeapplication\\sgchallengeapplication\\controllers\\saldocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|solutionrelative:sgchallengeapplication\\controllers\\saldocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|c:\\users\\pauff\\desktop\\challengesg\\sgchallengeapplication\\sgchallengeapplication\\controllers\\retirocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|solutionrelative:sgchallengeapplication\\controllers\\retirocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|c:\\users\\pauff\\desktop\\challengesg\\sgchallengeapplication\\sgchallengeapplication\\controllers\\depositocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|solutionrelative:sgchallengeapplication\\controllers\\depositocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|c:\\users\\pauff\\desktop\\challengesg\\sgchallengeapplication\\sgchallengeapplication\\controllers\\crearcuentacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|solutionrelative:sgchallengeapplication\\controllers\\crearcuentacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|c:\\users\\pauff\\desktop\\challengesg\\sgchallengeapplication\\sgchallengeapplication\\repositories\\bancorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|solutionrelative:sgchallengeapplication\\repositories\\bancorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|c:\\users\\pauff\\desktop\\challengesg\\sgchallengeapplication\\sgchallengeapplication\\services\\depositoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|solutionrelative:sgchallengeapplication\\services\\depositoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|c:\\users\\pauff\\desktop\\challengesg\\sgchallengeapplication\\sgchallengeapplication\\repositories\\tipodocumentorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|solutionrelative:sgchallengeapplication\\repositories\\tipodocumentorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|c:\\users\\pauff\\desktop\\challengesg\\sgchallengeapplication\\sgchallengeapplication\\repositories\\monedarepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|solutionrelative:sgchallengeapplication\\repositories\\monedarepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|c:\\users\\pauff\\desktop\\challengesg\\sgchallengeapplication\\sgchallengeapplication\\repositories\\sucursalrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|solutionrelative:sgchallengeapplication\\repositories\\sucursalrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|c:\\users\\pauff\\desktop\\challengesg\\sgchallengeapplication\\sgchallengeapplication\\services\\crearclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|solutionrelative:sgchallengeapplication\\services\\crearclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|c:\\users\\pauff\\desktop\\challengesg\\sgchallengeapplication\\sgchallengeapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|solutionrelative:sgchallengeapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|c:\\users\\pauff\\desktop\\challengesg\\sgchallengeapplication\\sgchallengeapplication\\services\\retiroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|solutionrelative:sgchallengeapplication\\services\\retiroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|c:\\users\\pauff\\desktop\\challengesg\\sgchallengeapplication\\sgchallengeapplication\\services\\saldoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|solutionrelative:sgchallengeapplication\\services\\saldoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|c:\\users\\pauff\\desktop\\challengesg\\sgchallengeapplication\\sgchallengeapplication\\repositories\\interfaces\\iclienterepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|solutionrelative:sgchallengeapplication\\repositories\\interfaces\\iclienterepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|c:\\users\\pauff\\desktop\\challengesg\\sgchallengeapplication\\sgchallengeapplication\\repositories\\usuariorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|solutionrelative:sgchallengeapplication\\repositories\\usuariorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|c:\\users\\pauff\\desktop\\challengesg\\sgchallengeapplication\\sgchallengeapplication\\repositories\\interfaces\\iusuariorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|solutionrelative:sgchallengeapplication\\repositories\\interfaces\\iusuariorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|c:\\users\\pauff\\desktop\\challengesg\\sgchallengeapplication\\sgchallengeapplication\\repositories\\interfaces\\icuentarepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F14C318-3FDC-418A-B614-9344BE03F2AC}|SGChallengeApplication\\SGChallengeApplication.csproj|solutionrelative:sgchallengeapplication\\repositories\\interfaces\\icuentarepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Program.cs",
+              "RelativeDocumentMoniker": "SGChallengeApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Program.cs",
+              "RelativeToolTip": "SGChallengeApplication\\Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAACQAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T14:51:58.353Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CrearUsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Services\\CrearUsuarioService.cs",
+              "RelativeDocumentMoniker": "SGChallengeApplication\\Services\\CrearUsuarioService.cs",
+              "ToolTip": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Services\\CrearUsuarioService.cs",
+              "RelativeToolTip": "SGChallengeApplication\\Services\\CrearUsuarioService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T01:11:10.272Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RetiroController.cs",
+              "DocumentMoniker": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Controllers\\RetiroController.cs",
+              "RelativeDocumentMoniker": "SGChallengeApplication\\Controllers\\RetiroController.cs",
+              "ToolTip": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Controllers\\RetiroController.cs",
+              "RelativeToolTip": "SGChallengeApplication\\Controllers\\RetiroController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T01:33:53.689Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DepositoService.cs",
+              "DocumentMoniker": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Services\\DepositoService.cs",
+              "RelativeDocumentMoniker": "SGChallengeApplication\\Services\\DepositoService.cs",
+              "ToolTip": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Services\\DepositoService.cs",
+              "RelativeToolTip": "SGChallengeApplication\\Services\\DepositoService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T01:28:31.904Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "RetiroService.cs",
+              "DocumentMoniker": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Services\\RetiroService.cs",
+              "RelativeDocumentMoniker": "SGChallengeApplication\\Services\\RetiroService.cs",
+              "ToolTip": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Services\\RetiroService.cs",
+              "RelativeToolTip": "SGChallengeApplication\\Services\\RetiroService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAwwBAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T01:28:33.191Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CrearCuentaController.cs",
+              "DocumentMoniker": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Controllers\\CrearCuentaController.cs",
+              "RelativeDocumentMoniker": "SGChallengeApplication\\Controllers\\CrearCuentaController.cs",
+              "ToolTip": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Controllers\\CrearCuentaController.cs",
+              "RelativeToolTip": "SGChallengeApplication\\Controllers\\CrearCuentaController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T01:20:47.761Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CrearCuentaService.cs",
+              "DocumentMoniker": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Services\\CrearCuentaService.cs",
+              "RelativeDocumentMoniker": "SGChallengeApplication\\Services\\CrearCuentaService.cs",
+              "ToolTip": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Services\\CrearCuentaService.cs",
+              "RelativeToolTip": "SGChallengeApplication\\Services\\CrearCuentaService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAlwBgAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T06:16:28.075Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UtilidadesRepo.cs",
+              "DocumentMoniker": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Repositories\\UtilidadesRepo.cs",
+              "RelativeDocumentMoniker": "SGChallengeApplication\\Repositories\\UtilidadesRepo.cs",
+              "ToolTip": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Repositories\\UtilidadesRepo.cs",
+              "RelativeToolTip": "SGChallengeApplication\\Repositories\\UtilidadesRepo.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T02:49:10.883Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "SGChallengeApplication\\appsettings.json",
+              "ToolTip": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\appsettings.json",
+              "RelativeToolTip": "SGChallengeApplication\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-24T13:11:19.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cuenta.cs",
+              "DocumentMoniker": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Data\\Models\\Cuenta.cs",
+              "RelativeDocumentMoniker": "SGChallengeApplication\\Data\\Models\\Cuenta.cs",
+              "ToolTip": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Data\\Models\\Cuenta.cs",
+              "RelativeToolTip": "SGChallengeApplication\\Data\\Models\\Cuenta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T01:44:43.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CuentaRepo.cs",
+              "DocumentMoniker": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Repositories\\CuentaRepo.cs",
+              "RelativeDocumentMoniker": "SGChallengeApplication\\Repositories\\CuentaRepo.cs",
+              "ToolTip": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Repositories\\CuentaRepo.cs",
+              "RelativeToolTip": "SGChallengeApplication\\Repositories\\CuentaRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T01:21:29.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CrearClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Controllers\\CrearClienteController.cs",
+              "RelativeDocumentMoniker": "SGChallengeApplication\\Controllers\\CrearClienteController.cs",
+              "ToolTip": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Controllers\\CrearClienteController.cs",
+              "RelativeToolTip": "SGChallengeApplication\\Controllers\\CrearClienteController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T01:52:17.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUtilidadesRepo.cs",
+              "DocumentMoniker": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Repositories\\Interfaces\\IUtilidadesRepo.cs",
+              "RelativeDocumentMoniker": "SGChallengeApplication\\Repositories\\Interfaces\\IUtilidadesRepo.cs",
+              "ToolTip": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Repositories\\Interfaces\\IUtilidadesRepo.cs",
+              "RelativeToolTip": "SGChallengeApplication\\Repositories\\Interfaces\\IUtilidadesRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T05:22:22.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginService.cs",
+              "DocumentMoniker": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Services\\LoginService.cs",
+              "RelativeDocumentMoniker": "SGChallengeApplication\\Services\\LoginService.cs",
+              "ToolTip": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Services\\LoginService.cs",
+              "RelativeToolTip": "SGChallengeApplication\\Services\\LoginService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T06:05:09.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AutenticarService.cs",
+              "DocumentMoniker": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Services\\AutenticarService.cs",
+              "RelativeDocumentMoniker": "SGChallengeApplication\\Services\\AutenticarService.cs",
+              "ToolTip": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Services\\AutenticarService.cs",
+              "RelativeToolTip": "SGChallengeApplication\\Services\\AutenticarService.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T05:00:54.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ISaldoService.cs",
+              "DocumentMoniker": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Services\\Interfaces\\ISaldoService.cs",
+              "RelativeDocumentMoniker": "SGChallengeApplication\\Services\\Interfaces\\ISaldoService.cs",
+              "ToolTip": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Services\\Interfaces\\ISaldoService.cs",
+              "RelativeToolTip": "SGChallengeApplication\\Services\\Interfaces\\ISaldoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T03:41:49.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IRetiroService.cs",
+              "DocumentMoniker": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Services\\Interfaces\\IRetiroService.cs",
+              "RelativeDocumentMoniker": "SGChallengeApplication\\Services\\Interfaces\\IRetiroService.cs",
+              "ToolTip": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Services\\Interfaces\\IRetiroService.cs",
+              "RelativeToolTip": "SGChallengeApplication\\Services\\Interfaces\\IRetiroService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T02:45:16.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ILoginService.cs",
+              "DocumentMoniker": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Services\\Interfaces\\ILoginService.cs",
+              "RelativeDocumentMoniker": "SGChallengeApplication\\Services\\Interfaces\\ILoginService.cs",
+              "ToolTip": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Services\\Interfaces\\ILoginService.cs",
+              "RelativeToolTip": "SGChallengeApplication\\Services\\Interfaces\\ILoginService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T12:58:43.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IDepositoService.cs",
+              "DocumentMoniker": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Services\\Interfaces\\IDepositoService.cs",
+              "RelativeDocumentMoniker": "SGChallengeApplication\\Services\\Interfaces\\IDepositoService.cs",
+              "ToolTip": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Services\\Interfaces\\IDepositoService.cs",
+              "RelativeToolTip": "SGChallengeApplication\\Services\\Interfaces\\IDepositoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T02:45:14.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ICrearUsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Services\\Interfaces\\ICrearUsuarioService.cs",
+              "RelativeDocumentMoniker": "SGChallengeApplication\\Services\\Interfaces\\ICrearUsuarioService.cs",
+              "ToolTip": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Services\\Interfaces\\ICrearUsuarioService.cs",
+              "RelativeToolTip": "SGChallengeApplication\\Services\\Interfaces\\ICrearUsuarioService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T02:45:13.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ICrearCuentaService.cs",
+              "DocumentMoniker": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Services\\Interfaces\\ICrearCuentaService.cs",
+              "RelativeDocumentMoniker": "SGChallengeApplication\\Services\\Interfaces\\ICrearCuentaService.cs",
+              "ToolTip": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Services\\Interfaces\\ICrearCuentaService.cs",
+              "RelativeToolTip": "SGChallengeApplication\\Services\\Interfaces\\ICrearCuentaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T06:24:13.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ICrearClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Services\\Interfaces\\ICrearClienteService.cs",
+              "RelativeDocumentMoniker": "SGChallengeApplication\\Services\\Interfaces\\ICrearClienteService.cs",
+              "ToolTip": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Services\\Interfaces\\ICrearClienteService.cs",
+              "RelativeToolTip": "SGChallengeApplication\\Services\\Interfaces\\ICrearClienteService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T02:08:05.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IAutenticarService.cs",
+              "DocumentMoniker": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Services\\Interfaces\\IAutenticarService.cs",
+              "RelativeDocumentMoniker": "SGChallengeApplication\\Services\\Interfaces\\IAutenticarService.cs",
+              "ToolTip": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Services\\Interfaces\\IAutenticarService.cs",
+              "RelativeToolTip": "SGChallengeApplication\\Services\\Interfaces\\IAutenticarService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T05:00:37.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "SGChallengeApplication\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "SGChallengeApplication\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAYwBYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T01:33:49.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Data\\DTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "SGChallengeApplication\\Data\\DTOs\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Data\\DTOs\\LoginDTO.cs",
+              "RelativeToolTip": "SGChallengeApplication\\Data\\DTOs\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T13:00:36.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UsuarioCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Data\\DTOs\\UsuarioCreateDTO.cs",
+              "RelativeDocumentMoniker": "SGChallengeApplication\\Data\\DTOs\\UsuarioCreateDTO.cs",
+              "ToolTip": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Data\\DTOs\\UsuarioCreateDTO.cs",
+              "RelativeToolTip": "SGChallengeApplication\\Data\\DTOs\\UsuarioCreateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T13:01:17.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CuentaCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Data\\DTOs\\CuentaCreateDTO.cs",
+              "RelativeDocumentMoniker": "SGChallengeApplication\\Data\\DTOs\\CuentaCreateDTO.cs",
+              "ToolTip": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Data\\DTOs\\CuentaCreateDTO.cs",
+              "RelativeToolTip": "SGChallengeApplication\\Data\\DTOs\\CuentaCreateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T13:01:10.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ClienteCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Data\\DTOs\\ClienteCreateDTO.cs",
+              "RelativeDocumentMoniker": "SGChallengeApplication\\Data\\DTOs\\ClienteCreateDTO.cs",
+              "ToolTip": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Data\\DTOs\\ClienteCreateDTO.cs",
+              "RelativeToolTip": "SGChallengeApplication\\Data\\DTOs\\ClienteCreateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T13:01:02.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProvinciaRepo.cs",
+              "DocumentMoniker": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Repositories\\ProvinciaRepo.cs",
+              "RelativeDocumentMoniker": "SGChallengeApplication\\Repositories\\ProvinciaRepo.cs",
+              "ToolTip": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Repositories\\ProvinciaRepo.cs",
+              "RelativeToolTip": "SGChallengeApplication\\Repositories\\ProvinciaRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T12:59:34.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LocalidadRepo.cs",
+              "DocumentMoniker": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Repositories\\LocalidadRepo.cs",
+              "RelativeDocumentMoniker": "SGChallengeApplication\\Repositories\\LocalidadRepo.cs",
+              "ToolTip": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Repositories\\LocalidadRepo.cs",
+              "RelativeToolTip": "SGChallengeApplication\\Repositories\\LocalidadRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T12:46:28.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CrearUsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Controllers\\CrearUsuarioController.cs",
+              "RelativeDocumentMoniker": "SGChallengeApplication\\Controllers\\CrearUsuarioController.cs",
+              "ToolTip": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Controllers\\CrearUsuarioController.cs",
+              "RelativeToolTip": "SGChallengeApplication\\Controllers\\CrearUsuarioController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAlwBIAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T01:33:44.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SaldoController.cs",
+              "DocumentMoniker": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Controllers\\SaldoController.cs",
+              "RelativeDocumentMoniker": "SGChallengeApplication\\Controllers\\SaldoController.cs",
+              "ToolTip": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Controllers\\SaldoController.cs",
+              "RelativeToolTip": "SGChallengeApplication\\Controllers\\SaldoController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T05:59:26.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DepositoController.cs",
+              "DocumentMoniker": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Controllers\\DepositoController.cs",
+              "RelativeDocumentMoniker": "SGChallengeApplication\\Controllers\\DepositoController.cs",
+              "ToolTip": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Controllers\\DepositoController.cs",
+              "RelativeToolTip": "SGChallengeApplication\\Controllers\\DepositoController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T01:33:47.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BancoRepo.cs",
+              "DocumentMoniker": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Repositories\\BancoRepo.cs",
+              "RelativeDocumentMoniker": "SGChallengeApplication\\Repositories\\BancoRepo.cs",
+              "ToolTip": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Repositories\\BancoRepo.cs",
+              "RelativeToolTip": "SGChallengeApplication\\Repositories\\BancoRepo.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T12:45:29.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "TipoDocumentoRepo.cs",
+              "DocumentMoniker": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Repositories\\TipoDocumentoRepo.cs",
+              "RelativeDocumentMoniker": "SGChallengeApplication\\Repositories\\TipoDocumentoRepo.cs",
+              "ToolTip": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Repositories\\TipoDocumentoRepo.cs",
+              "RelativeToolTip": "SGChallengeApplication\\Repositories\\TipoDocumentoRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T12:46:30.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "MonedaRepo.cs",
+              "DocumentMoniker": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Repositories\\MonedaRepo.cs",
+              "RelativeDocumentMoniker": "SGChallengeApplication\\Repositories\\MonedaRepo.cs",
+              "ToolTip": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Repositories\\MonedaRepo.cs",
+              "RelativeToolTip": "SGChallengeApplication\\Repositories\\MonedaRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T12:46:27.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SucursalRepo.cs",
+              "DocumentMoniker": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Repositories\\SucursalRepo.cs",
+              "RelativeDocumentMoniker": "SGChallengeApplication\\Repositories\\SucursalRepo.cs",
+              "ToolTip": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Repositories\\SucursalRepo.cs",
+              "RelativeToolTip": "SGChallengeApplication\\Repositories\\SucursalRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T12:46:24.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CrearClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Services\\CrearClienteService.cs",
+              "RelativeDocumentMoniker": "SGChallengeApplication\\Services\\CrearClienteService.cs",
+              "ToolTip": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Services\\CrearClienteService.cs",
+              "RelativeToolTip": "SGChallengeApplication\\Services\\CrearClienteService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T06:12:22.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "SaldoService.cs",
+              "DocumentMoniker": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Services\\SaldoService.cs",
+              "RelativeDocumentMoniker": "SGChallengeApplication\\Services\\SaldoService.cs",
+              "ToolTip": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Services\\SaldoService.cs",
+              "RelativeToolTip": "SGChallengeApplication\\Services\\SaldoService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T03:42:06.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IClienteRepo.cs",
+              "DocumentMoniker": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Repositories\\Interfaces\\IClienteRepo.cs",
+              "RelativeDocumentMoniker": "SGChallengeApplication\\Repositories\\Interfaces\\IClienteRepo.cs",
+              "ToolTip": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Repositories\\Interfaces\\IClienteRepo.cs",
+              "RelativeToolTip": "SGChallengeApplication\\Repositories\\Interfaces\\IClienteRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T01:14:26.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UsuarioRepo.cs",
+              "DocumentMoniker": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Repositories\\UsuarioRepo.cs",
+              "RelativeDocumentMoniker": "SGChallengeApplication\\Repositories\\UsuarioRepo.cs",
+              "ToolTip": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Repositories\\UsuarioRepo.cs",
+              "RelativeToolTip": "SGChallengeApplication\\Repositories\\UsuarioRepo.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T01:13:28.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ICuentaRepo.cs",
+              "DocumentMoniker": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Repositories\\Interfaces\\ICuentaRepo.cs",
+              "RelativeDocumentMoniker": "SGChallengeApplication\\Repositories\\Interfaces\\ICuentaRepo.cs",
+              "ToolTip": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Repositories\\Interfaces\\ICuentaRepo.cs",
+              "RelativeToolTip": "SGChallengeApplication\\Repositories\\Interfaces\\ICuentaRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T01:43:06.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IUsuarioRepo.cs",
+              "DocumentMoniker": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Repositories\\Interfaces\\IUsuarioRepo.cs",
+              "RelativeDocumentMoniker": "SGChallengeApplication\\Repositories\\Interfaces\\IUsuarioRepo.cs",
+              "ToolTip": "C:\\Users\\pauff\\Desktop\\ChallengeSG\\SGChallengeApplication\\SGChallengeApplication\\Repositories\\Interfaces\\IUsuarioRepo.cs",
+              "RelativeToolTip": "SGChallengeApplication\\Repositories\\Interfaces\\IUsuarioRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T01:12:43.94Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
